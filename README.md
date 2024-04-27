@@ -1,26 +1,26 @@
 # TP3DPBO2024
 
-Halaman Utama:
+**Halaman Utama:**
 Menampilkan daftar produk hewan peliharaan yang telah ditambahkan.
 Pengguna dapat melihat, mengedit, dan menghapus produk yang ada.
 Terdapat fitur pencarian untuk mencari produk berdasarkan kategori dan harga.
-Tambah Produk Baru:
+**Tambah Produk Baru:**
 Halaman ini memungkinkan pengguna untuk menambah produk baru ke dalam sistem.
 Pengguna diminta untuk mengisi formulir dengan informasi produk seperti nama, harga, deskripsi, dan kategori.
 Setelah mengisi formulir, pengguna dapat menyimpan produk baru tersebut ke dalam database.
-Edit Produk:
+**Edit Produk:**
 Halaman ini memungkinkan pengguna untuk mengedit informasi produk yang sudah ada.
 Pengguna dapat mengubah nama, harga, deskripsi, dan kategori produk.
 Setelah melakukan perubahan, pengguna dapat menyimpan perubahan tersebut ke dalam database.
-Hapus Produk:
+**Hapus Produk:**
 Dari halaman utama, pengguna dapat menghapus produk dengan mengklik tombol "Hapus" di sebelah produk yang ingin dihapus.
 Pengguna kemudian akan diminta konfirmasi sebelum produk benar-benar dihapus dari database.
-Cari Produk :
+**Cari Produk :**
 Halaman ini memungkinkan pengguna untuk mencari produk berdasarkan kategori dan harga.
 Pengguna dapat memasukkan kata kunci pencarian dan memilih kategori serta rentang harga.
 Hasil pencarian akan ditampilkan dalam daftar produk yang sesuai.
 
-#Fitur:#
+*Fitur:*
 
 Menambah produk baru ke dalam database.
 Mengedit informasi produk yang sudah ada.
