@@ -1,6 +1,6 @@
 # TP3DPBO2024
 
-**Halaman Utama:**
+#Halaman Utama:#
 Menampilkan daftar produk hewan peliharaan yang telah ditambahkan.
 Pengguna dapat melihat, mengedit, dan menghapus produk yang ada.
 Terdapat fitur pencarian untuk mencari produk berdasarkan kategori dan harga.
